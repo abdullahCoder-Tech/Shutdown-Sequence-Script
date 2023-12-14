@@ -1,3 +1,6 @@
+rem Shutdown-Sequence-Script
+
+
 @echo off
 rem The line above turns off command echoing for better readability
 
